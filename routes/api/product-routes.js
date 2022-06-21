@@ -125,7 +125,7 @@ router.delete('/:id', async (req, res) => {
         id: req.params.id,
       }
     });
-    res,json(deleteProduct);
+    res.json(deleteProduct);
   } catch (e) {
     res.json(e);
   }

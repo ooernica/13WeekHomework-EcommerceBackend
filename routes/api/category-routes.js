@@ -70,7 +70,7 @@ router.delete('/:id',async (req, res) => {
         id: req.params.id,
       }
     });
-    res,json(deleteCategory);
+    res.json(deleteCategory);
   } catch (e) {
     res.json(e);
   }
