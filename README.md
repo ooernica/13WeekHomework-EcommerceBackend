@@ -31,7 +31,7 @@ Copy and Paste text in My Sequel Workbench and hit the lighting bolt
 go to terminal and run: npm run seed, npm start (or nodemon index.js) 
           
 ## Video
-https://drive.google.com/file/d/1nAZxjP1oxStGPU2FXs3cm8eMLOKRH_yB/view
+https://drive.google.com/file/d/1nAZxjP1oxStGPU2FXs3cm8eMLOKRH_yB/view 
           
 ## License
 N/A 
